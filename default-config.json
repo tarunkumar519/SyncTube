@@ -1,6 +1,6 @@
 {
 	"port": 4200,
-	"channelName": "SyncTube",
+	"channelName": "Watch Party",
 	"maxLoginLength": 20,
 	"maxMessageLength": 500,
 	"serverChatHistory": 50,
@@ -13,7 +13,7 @@
 	"localNetworkOnly": false,
 	"sslKeyPemPath": "",
 	"sslCertPemPath": "",
-	"templateUrl": "https://youtube.com/playlist?list=PL9FiZUDVMu9tc_85frYognMOVFC_-VkSX",
+	"templateUrl": "https://www.youtube.com/watch?v=ky0MLhpS7Eg&t=557s",
 	"youtubeApiKey": "AIzaSyDTk1OPRI9cDkAK_BKsBcv10DQCHse-QaA",
 	"youtubePlaylistLimit": 50,
 	"cacheStorageLimitGiB": 3.0,
